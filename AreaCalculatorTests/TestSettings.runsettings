@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<RunSettings>
+  <TestRunParameters>
+    
+    <!--GetSquareArea test values-->
+    <Parameter name="stringOne" value="one"/>
+    <Parameter name="stringTwo" value="two"/>
+    <Parameter name="stringThree" value="three"/>
+    <Parameter name="stringFour" value="four"/>
+    <Parameter name="stringFive" value="five"/>
+    <Parameter name="stringSix" value="six"/>
+    <Parameter name="stringSeven" value="seven"/>
+    <Parameter name="stringEight" value="eight"/>
+    <Parameter name="stringNine" value="nine"/>
+    <Parameter name="stringTen" value="ten"/>
+    
+    
+    <Parameter name="emptyString" value=""/>
+    <Parameter name="whiteSpaceString" value="   "/>
+    <Parameter name="invalidInputString" value="Yellow duck!"/>
+
+    
+    <!--Values for Testing GetParallelogramArea-->
+    <Parameter name="validLength" value="1"/>
+    <Parameter name="validHeight" value="2"/>
+
+    <Parameter name="invalidLength" value="0"/>
+    <Parameter name="invalidHeight" value="-1"/>
+    
+  </TestRunParameters>
+</RunSettings>

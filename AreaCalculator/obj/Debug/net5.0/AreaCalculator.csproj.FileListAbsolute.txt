@@ -1,0 +1,12 @@
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\bin\Debug\net5.0\AreaCalculator.deps.json
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\bin\Debug\net5.0\AreaCalculator.dll
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\bin\Debug\net5.0\ref\AreaCalculator.dll
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\bin\Debug\net5.0\AreaCalculator.pdb
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net5.0\AreaCalculator.csprojAssemblyReference.cache
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net5.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net5.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net5.0\AreaCalculator.AssemblyInfo.cs
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net5.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net5.0\AreaCalculator.dll
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net5.0\ref\AreaCalculator.dll
+C:\Users\coded\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net5.0\AreaCalculator.pdb
